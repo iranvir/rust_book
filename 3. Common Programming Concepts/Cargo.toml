@@ -1,0 +1,13 @@
+[package]
+name = "ch3"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "variable"
+path = "variable.rs"
+[[bin]]
+name = "constant"
+path = "constant.rs"
+
+[dependencies]
