@@ -9,5 +9,11 @@ path = "variable.rs"
 [[bin]]
 name = "constant"
 path = "constant.rs"
+[[bin]]
+name = "bool"
+path = "bool.rs"
+[[bin]]
+name = "char"
+path = "char.rs"
 
 [dependencies]
